@@ -1,3 +1,5 @@
+//java server and client program to compute a message digest for a file of any size and any type
+
 // server code:
 
 import java.io.DataOutputStream;
