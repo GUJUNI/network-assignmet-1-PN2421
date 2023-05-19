@@ -1,3 +1,5 @@
+//multithreaded UDP client and server program to calculate the gravitational pull on the poles of earth in java
+
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
