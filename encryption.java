@@ -1,3 +1,6 @@
+//java server and client program that performs encryption/decryption
+
+
 // Server code:
 
 import java.io.BufferedReader;
