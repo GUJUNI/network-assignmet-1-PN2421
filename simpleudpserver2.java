@@ -1,4 +1,5 @@
-//Simple UDP server and client program to calculate the average speed of a ball falling from the burj khalifa in java with its output
+//Simple UDP server and client program to calculate the average speed of a ball falling from the burj khalifa in java
+
 import java.net.DatagramPacket;
 import java.net.DatagramSocket;
 
