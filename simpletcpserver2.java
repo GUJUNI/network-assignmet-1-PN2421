@@ -1,3 +1,5 @@
+//simple TCP client and server program to generate random passwords for a user in java
+
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.ServerSocket;
