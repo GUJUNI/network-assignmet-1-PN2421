@@ -1,3 +1,5 @@
+//multithreaded TCP client and server program to calculate the speed of a free falling meteor on the poles of earth in java
+
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.IOException;
