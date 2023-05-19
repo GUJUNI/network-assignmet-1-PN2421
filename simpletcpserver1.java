@@ -1,3 +1,4 @@
+//simple tcp program to calculate compound interest in java
 import java.io.*;
 import java.net.*;
 
